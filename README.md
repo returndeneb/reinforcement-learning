@@ -1,4 +1,4 @@
-# reinforcement-learning
+# reinforcement-learning by Richard S. Sutton,Andrew G. Barto 2nd
 
 
 Comments on Jack's Car Rental
